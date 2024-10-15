@@ -1,0 +1,6 @@
+# Keep node modules out of GitHub and have them be fetched at build time
+node_modules
+# The site should be generated in our chosen platform, not stored in Git
+_site
+# IntellyJ
+.idea
