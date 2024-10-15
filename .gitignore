@@ -4,3 +4,6 @@ node_modules
 _site
 # IntellyJ
 .idea
+
+# Local Netlify folder
+.netlify
